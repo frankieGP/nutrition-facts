@@ -1,0 +1,76 @@
+body {
+  background-color: #FCFCFC;
+}
+
+table {
+  border: 1px solid black;
+  font-family: Helvetica;
+  width: 370px;
+  padding: 7px;
+  background-color: white;
+}
+
+th {
+  font-size: 39px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  text-align: left;
+}
+
+#line1 {
+  border-bottom: 10px solid black;
+  padding-bottom: 7px;
+}
+
+#line2 {
+  border-bottom: 1px solid black;
+  padding-top: 13px;
+  padding-bottom: 7px;
+  font-size: 10pt;
+}
+
+#line3-4 {
+  border-top: 6px solid black;
+  border-bottom: 1px solid black;
+  padding-bottom: 7px;
+  padding-top: 6px;
+  text-align: right;
+  font-size: 11pt;
+}
+
+#line5 {
+  border-bottom: 1px solid black;
+}
+
+#cal-num {
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 4px;
+}
+
+#cal-fat {
+  float: right;
+  padding-top: 5px;
+  padding-bottom: 4px;
+}
+
+#total-fat {
+  float: left;
+  padding-top: 6px;
+}
+
+#fat-percent {
+  float:right;
+  padding-top: 6px;
+}
+
+#sat-fat {
+  float:left;
+  padding-top: 6px;
+  padding-left: 20px;
+}
+
+#sat-percent {
+  float:right;
+  padding-top: 6px;
+}
